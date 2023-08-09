@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.navbar-brand img{
+    width: 100%;
+    height:auto;
+}
+
+.navbar .container-fluid{
+    flex-direction:column;
+}
+
+.navbar-nav .nav-item .nav-link {
+    color: red;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.dropdown-menu {
+    padding: 10px;
+}
