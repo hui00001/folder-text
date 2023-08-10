@@ -16,11 +16,26 @@
 }
 
 .navbar-nav .nav-item .nav-link {
-    color: red;
+    color: lightslategrey;
     font-weight: 600;
     font-size: 15px;
 }
 
 .dropdown-menu {
     padding: 10px;
+}
+
+.section-one {
+    background-image: url(img/2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 500px;
+    display: absolute;
+}
+
+.section-two {
+    display: flex;
+    margin-top: 20px;
+    padding: 10px;
+
 }
